@@ -2,7 +2,7 @@
 
 - 🔭 Em fase de transição de carreira e em busca da primeira oportunidade ✨
 - 📚 Cursando formação full stack pelo SENAI/SC (Projeto DEVinHouse)
-- 👩🏻‍💻 Conhecimento em Front-end e estudando Back-end (C# e .NET Core)
+- 👩🏻‍💻 Conhecimento em <b>Front-end</b> (HTML, CSS, JS e React) e estudando <b>Back-end</b> (C# e .NET Core)
 ##
 
 <div align="center">
