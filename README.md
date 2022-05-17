@@ -1,8 +1,8 @@
 ### Olá, pessoal! Eu sou a Narriman Lima 😊
 
 - 🔭 Em fase de transição de carreira e em busca da primeira oportunidade ✨
-- 📚 Cursando formação full stack pelo SENAI/SC (Projeto DEVinHouse)
-- 👩🏻‍💻 Conhecimento em <b>Front-end</b> (HTML, CSS, JS e React) e estudando <b>Back-end</b> (C# e .NET Core)
+- 📚 Cursando formação full stack pelo SENAI/SC (Projeto DEVinHouse) e back end pela Digital House 
+- 👩🏻‍💻 Conhecimento em <b>Front-end</b> (HTML, CSS, JS e React) e estudando <b>Back-end</b> (.NET e NodeJS)
 ##
 
 <div align="center">
@@ -20,6 +20,7 @@
 <h3> Back-end </h3><br>
   <img align="center" alt="Narriman-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Narriman-dotNetCore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-plain.svg">
+  <img align="center" alt="Narriman-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> 
 </div>
 
 <br>
